@@ -1,0 +1,93 @@
+/*----ESTILOS DE LA INTERFACE----*/
+/*h1 {
+    color: #6325f3;
+}
+
+#summary {
+    margin-bottom: 20px;
+}
+
+#charts {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.chart {
+    flex: 1;
+    margin-right: 10px;
+}
+
+#tips {
+    background-color: #25dbc3;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: left;
+}*/
+
+/*---ESTILOS DE TABLAS---*/
+table {
+    margin: auto; /* Centra la tabla horizontalmente */
+    border-collapse: collapse; /* Combina los bordes de las celdas */
+}
+th, td {
+    padding: 8px; /* Espacio interno de las celdas */
+    text-align: center; /* Centra el texto dentro de las celdas */
+}
+.pagination {
+    margin-top: 20px;
+    text-align: center;
+}
+.pagination a {
+    display: inline-block;
+    padding: 5px 10px;
+    margin: 0 5px;
+    background-color: #0cd316;
+    border: 1px solid #0f0cdb;
+    text-decoration: none;
+    color: #333;
+}
+.pagination a.active {
+    background-color: #43caf377;
+    color: #fff;
+}
+
+body {
+    background-color: #f8f3f3; /* Color de fondo para toda la página */
+    font-family: Arial, sans-serif; /* Fuente para el texto */
+    color: #000000; /* Color del texto */
+}
+table {
+    margin: auto; /* Centra la tabla horizontalmente */
+    border-collapse: collapse; /* Combina los bordes de las celdas */
+}
+th, td {
+    padding: 8px; /* Espacio interno de las celdas */
+    text-align: center; /* Centra el texto dentro de las celdas */
+}
+.pagination {
+    margin-top: 20px;
+    text-align: center;
+}
+.pagination a {
+    display: inline-block;
+    padding: 5px 10px;
+    margin: 0 5px;
+    background-color: #f1f1f1;
+    border: 1px solid #08080a;
+    text-decoration: none;
+    color: #080808;
+}
+.pagination a.active {
+    background-color: #60b2e9;
+    color: #ffffff;
+}
+/*---ESTILOS DE TACOMPLETAS---*/
+table {
+    margin: auto; /* Centra la tabla horizontalmente */
+    border-collapse: collapse; /* Combina los bordes de las celdas */
+}
+th, td {
+    padding: 8px; /* Espacio interno de las celdas */
+    text-align: center; /* Centra el texto dentro de las celdas */
+}
